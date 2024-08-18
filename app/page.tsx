@@ -12,7 +12,7 @@ const Chatbot = () => {
   const [allMessages, setAllMessages] = useState([
     {
       role: "assistant",
-      content: "Hi, I'm your culture and travel chat assistant. How can i help you today?",
+      content: "Hi, I'm your video assistant. how can I hep you today?",
     },
   ]);
 
